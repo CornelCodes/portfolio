@@ -1,6 +1,8 @@
 # Portfolio
  Welcome to my GitHub portfolio! I'm Cornel Oosthuizen, a full-stack developer specializing in C#, JavaScript, and .NET. I build scalable, mobile responsive user-friendly apps across various industries. Explore my projects, from Blazor web apps to automation tools, showcasing my passion for coding and solving real-world problems.
 
+Some of my most recent work
+
  Vergeet My Nie - ECommerce
 ![VMN_Site_Home](https://github.com/user-attachments/assets/d55b2518-47eb-4576-977e-6d66936dd470)
 ![VMN_Site_Footer](https://github.com/user-attachments/assets/a848b5e2-01b3-4d9a-ac27-e90392bd0511)
